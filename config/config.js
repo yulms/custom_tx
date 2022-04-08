@@ -1,0 +1,20 @@
+// тестовые данные (трансфер на свой же кошелек)
+const TRANSACTION_DATA = {
+  from: '0xab1a569247122BB207eeF101249b9272b0c9435f',
+  to: '0xab1a569247122BB207eeF101249b9272b0c9435f',
+  value: '0.01',
+  gasPrice: '5',
+  gasLimit: '1000000',
+  data: '0x876cb2170000000000000000000000000000000000000000000000000000000000000001',
+};
+
+// const TRANSACTION_DATA = {
+//   from: '0xab1a569247122BB207eeF101249b9272b0c9435f',
+//   to: '0x4c978F0E27A227134DA7c3F58944BC3d2F8F8d2B',
+//   value: '0.05',
+//   gasPrice: '5',
+//   gasLimit: '1000000',
+//   data: '0x876cb2170000000000000000000000000000000000000000000000000000000000000001',
+// };
+
+export default TRANSACTION_DATA;

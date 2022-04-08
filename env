@@ -1,0 +1,5 @@
+WALLET=
+PRIVATE_KEY=
+MAINNET_WS_URL=
+
+# после заполнения переименовать файл в .env
